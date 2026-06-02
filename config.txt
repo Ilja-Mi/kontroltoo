@@ -1,1 +1,1 @@
-setting=main-version
+setting=feature-version
